@@ -1,5 +1,5 @@
 """
-graphic_csv.py
+graphicCsv.py
 
 This file creates a graphic user interface (GUI)
 for the change_csv program
@@ -8,7 +8,7 @@ https://pysimplegui.readthedocs.io/en/latest/cookbook/#recipe-pattern-1a-one-sho
 
 """
 
-import change_csv as cc
+import changeCsv as cc
 import PySimpleGUI as sg
 import os.path
 
