@@ -1,7 +1,8 @@
 """
 changeCsv.py
 
-This file changes first person narratives into third person narratives
+This file deletes extra commas
+
 """
 
 
@@ -56,7 +57,6 @@ class Pairs:
             return self.ll.split(',')
         else:
             return self.temp.split(',')
-
 
 
 if __name__ == '__main__':
